@@ -1,0 +1,127 @@
+Name: Quinn Nash
+Email: qnash@cnm.edu
+Data: Statistics on the Top 50 US tech companies
+Data supplied by : https://www.kaggle.com/datasets 
+Exact URL: 
+https://www.kaggle.com/datasets/lamiatabassum/top-50-us-tech-companies-2022-2023-dataset 
+
+                                    Analysis of the top 50 US Tech Companies for 2022-2023
+
+                                   The companies in each sector with the most employees are:
+
+Sector: Consumer Electronics
+ - Apple Inc. founded in 1976
+	Total employees: 164000
+
+Sector: Software Infrastructure
+ - Microsoft Corporation founded in 1975
+	Total employees: 221000
+
+Sector: Software Application
+ - Amazon founded in 1994
+	Total employees: 1541000
+
+Sector: Semiconductors
+ - Intel Corporation founded in 1968
+	Total employees: 131900
+
+Sector: Communication Equipments
+ - Cisco Systems Inc. founded in 1984
+	Total employees: 83300
+
+Sector: IT Services
+ - IBM Corporation founded in 1911
+	Total employees: 345000
+
+Sector: Computer Hardware
+ - Dell Technologies Inc. founded in 1984
+	Total employees: 133000
+
+Sector: Electronic Components
+ - Roper Technologies founded in 1890
+	Total employees: 19300
+
+Sector with the most EMPLOYEES:
+                               Software Application with 1926819 total employees.
+Sector with the most COMPANIES:
+                               Software Application with 15 total companies.
+
+
+                  Companies in each sector with the Highest Ratio of Income Tax divided by Revenue:
+
+Consumer Electronics:
+	Apple Inc. paid 4.73% of its total Revenue as Income Tax
+Software Infrastructure:
+	Microsoft Corporation paid 7.42% of its total Revenue as Income Tax
+Software Application:
+	Cadence Design Systems Inc. paid 5.51% of its total Revenue as Income Tax
+Semiconductors:
+	Texas Instruments Inc. paid 6.41% of its total Revenue as Income Tax
+Communication Equipments:
+	Cisco Systems Inc. paid 5.01% of its total Revenue as Income Tax
+IT Services:
+	Fiserv Inc. paid 3.11% of its total Revenue as Income Tax
+Computer Hardware:
+	Arista Networks Inc. paid 5.23% of its total Revenue as Income Tax
+Electronic Components:
+	Roper Technologies paid 5.28% of its total Revenue as Income Tax
+
+                   Companies in each sector with the Lowest Ratio of Income Tax divided by Revenue:
+
+Consumer Electronics:
+	Apple Inc. paid 4.73% of its total Revenue as Income Tax
+Software Infrastructure:
+	Fortinet Inc. paid 0.70% of its total Revenue as Income Tax
+Software Application:
+	Snowflake Inc. paid 0.15% of its total Revenue as Income Tax
+Semiconductors:
+	NVIDIA Corporation paid 0.70% of its total Revenue as Income Tax
+Communication Equipments:
+	Cisco Systems Inc. paid 5.01% of its total Revenue as Income Tax
+IT Services:
+	Equinix paid 1.72% of its total Revenue as Income Tax
+Computer Hardware:
+	Dell Technologies Inc. paid 0.96% of its total Revenue as Income Tax
+Electronic Components:
+	Roper Technologies paid 5.28% of its total Revenue as Income Tax
+
+            If the same company paid both highest and lowest, it is the only company in that sector.
+
+
+                           The Average Income Tax paid by all 50 top companies was 0.03%
+
+                             But The following companies paid negative Income Tax...
+                                                    SHAME!!!!!!!
+
+Block Inc., Shame on you!
+   -You should have paid 0.47 BILLION USD in Income Tax.
+Amazon, Shame on you!
+   -You should have paid 13.92 BILLION USD in Income Tax.
+Uber Technologies Inc., Shame on you!
+   -You should have paid 0.86 BILLION USD in Income Tax.
+Intel Corporation, Shame on you!
+   -You should have paid 1.71 BILLION USD in Income Tax.
+Advanced Micro Devices (AMD) Inc., Shame on you!
+   -You should have paid 0.64 BILLION USD in Income Tax.
+IBM Corporation, Shame on you!
+   -You should have paid 1.64 BILLION USD in Income Tax.
+
+
+                Companies from each sector with the highest ratio of Revenue divided by Market Cap:
+
+Consumer Electronics:
+	Apple Inc. with 15.38%
+Software Infrastructure:
+	Block Inc. with 37.30%
+Software Application:
+	Amazon with 49.90%
+Semiconductors:
+	Intel Corporation with 53.43%
+Communication Equipments:
+	Cisco Systems Inc. with 25.56%
+IT Services:
+	IBM Corporation with 53.56%
+Computer Hardware:
+	Dell Technologies Inc. with 365.36%
+Electronic Components:
+	Roper Technologies with 12.20%
